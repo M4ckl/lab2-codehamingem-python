@@ -1,6 +1,6 @@
-Задание:
+Task:
 
-Построить схему декодирования классического кода Хэмминга (7;4) и (15;11). 
-Выяснить, имеются ли в принятых сообщениях ошибки, и если имеются, то какие. 
-Подробно прокомментировать и записать правильные сообщения. Сложить номера всех 5 вариантов заданий. 
-Умножить полученное число на 4. Вычислить для данного числа минимальное число проверочных разрядов и коэффициент избыточности.
+Build the decoding scheme for classical Hamming codes (7,4) and (15,11). Determine whether there are any errors in the received messages, and if so, identify them. Provide detailed commentary and write down the corrected messages.
+
+Add the numbers of all 5 assignment variants. Multiply the resulting number by 4.
+Calculate the minimum number of parity (check) bits required for this number and compute the redundancy coefficient.
